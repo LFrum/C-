@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\bin\Debug\Rumainum_Week4.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\bin\Debug\Rumainum_Week4.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\bin\Debug\Rumainum_Week4.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.csprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.frmBankAccount.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week4\Rumainum_Week4\obj\Debug\Rumainum_Week4.pdb

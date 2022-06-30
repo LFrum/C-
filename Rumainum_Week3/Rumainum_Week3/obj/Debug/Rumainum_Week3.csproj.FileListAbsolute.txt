@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\bin\Debug\Rumainum_Week3.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\bin\Debug\Rumainum_Week3.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\bin\Debug\Rumainum_Week3.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.csprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.frmLunchOrder.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week3\Rumainum_Week3\obj\Debug\Rumainum_Week3.pdb

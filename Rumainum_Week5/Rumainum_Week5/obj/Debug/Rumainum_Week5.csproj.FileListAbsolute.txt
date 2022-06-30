@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\bin\Debug\Rumainum_Week5.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\bin\Debug\Rumainum_Week5.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\bin\Debug\Rumainum_Week5.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.frmCloneCustomer.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week5\Rumainum_Week5\obj\Debug\Rumainum_Week5.csprojResolveAssemblyReference.cache

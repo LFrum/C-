@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\bin\Debug\Rumainum_Week1.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\bin\Debug\Rumainum_Week1.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\bin\Debug\Rumainum_Week1.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.csprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.frmDailyWorkDrivingCost.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week1\Rumainum_Week1\obj\Debug\Rumainum_Week1.pdb

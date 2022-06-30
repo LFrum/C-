@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\bin\Debug\Rumainum_Week2.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\bin\Debug\Rumainum_Week2.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\bin\Debug\Rumainum_Week2.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.csprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.Form1.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.exe
+C:\Users\Lince\Documents\Fall 2017\C#\Rumainum_Week2\Rumainum_Week2\obj\Debug\Rumainum_Week2.pdb

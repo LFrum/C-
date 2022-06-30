@@ -1,0 +1,9 @@
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\bin\Debug\incidentReport.exe.config
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\incidentReport.csprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\IncidentReport.Form1.resources
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\incidentReport.Properties.Resources.resources
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\incidentReport.csproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\bin\Debug\incidentReport.exe
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\bin\Debug\incidentReport.pdb
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\incidentReport.exe
+C:\Users\Lince\Documents\Fall 2017\C#\incidentReport\incidentReport\obj\Debug\incidentReport.pdb
